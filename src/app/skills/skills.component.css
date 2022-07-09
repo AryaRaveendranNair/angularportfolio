@@ -1,0 +1,22 @@
+.card-body{
+    height: 400px;
+    
+}
+.row{
+ height: 10%;
+ margin-top: 50px;
+ width: 50%;
+} 
+ .container{
+    margin-top: 10%;
+}
+.progress-value{
+    margin: 8px;
+}
+img{
+    
+    margin-left: 660px;
+    margin-top: -250px;
+    width:990px;
+    height: 250px;
+}
