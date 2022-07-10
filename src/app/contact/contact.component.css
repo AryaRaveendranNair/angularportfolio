@@ -7,15 +7,15 @@
    margin-left: -15%;
 }
 .testimonial-card{
-    width: 980px;
+    width: 850px;
     height: 500px;
-float: right;
-    display:flex;
-    margin: 10px;
-    padding-bottom: 20px;
-    
+    margin-right: 5%;
+    float: right;
     
    
+    max-width: 100%;
+    overflow: hidden;
+    
 }
 .contact-card>form>h4{
     font-family: 'Inter',sans-serif;
